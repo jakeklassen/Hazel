@@ -1,2 +1,3 @@
 # Hazel
-ngin
+
+See [Hazel](https://github.com/TheCherno/Hazel)
